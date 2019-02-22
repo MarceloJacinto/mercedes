@@ -1,0 +1,11 @@
+bot command [args]
+
+command:
+     poll - Retrieves the status from of all configured services
+     fetch - Retrieves the status from of all configured services
+     services - Lists all known services
+     backup - backups the current internal state to a file
+     restore - Imports the internal state from another run or app
+     history - Outputs all the data from the local storage
+     status - Summarizes data and displays it in a table-like fashion
+     help - This screen
